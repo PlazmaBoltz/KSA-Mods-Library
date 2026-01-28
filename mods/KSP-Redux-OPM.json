@@ -2,6 +2,7 @@
     "title": "KSP-Redux | OPM Expansion",
     "Description_Short": "Brings Outer Planets Mod into KSA",
     "Description_Long": "tba",
+    "Version": "1.0.2",
     "Dependencies": [
         {
             "type": 1, 
