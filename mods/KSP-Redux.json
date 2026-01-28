@@ -6,6 +6,14 @@
         {
             "type": 1, 
             "mod": "Core"
+        },
+        {
+            "type": 0, 
+            "mod": "Compendium"
+        },
+        {
+            "type": 0, 
+            "mod": "KSP-Redux-OPM"
         }
     ],
     "Download_Link": "https://spacedock.info/mod/4040/KSP-Redux/download"
