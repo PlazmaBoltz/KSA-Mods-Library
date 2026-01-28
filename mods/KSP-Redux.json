@@ -1,0 +1,12 @@
+{
+    "title": "KSP-Redux",
+    "Description_Short": "Brings KSP into KSA",
+    "Description_Long": "tba",
+    "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "Core"
+        }
+    ],
+    "Download_Link": "https://spacedock.info/mod/4040/KSP-Redux/download"
+}
