@@ -1,0 +1,13 @@
+{
+    "title": "Mod Menu",
+    "Description_Short": "Adds a menu for managing mods",
+    "Description_Long": "tba",
+    "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        }
+    ],
+    "Download_Link": "https://spacedock.info/mod/4054/ModMenu/download"
+    "Homepage": "https://spacedock.info/mod/4054/ModMenu"
+}
