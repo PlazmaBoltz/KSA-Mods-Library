@@ -1,0 +1,17 @@
+{
+    "title": "KSP-Redux | OPM Expansion",
+    "Description_Short": "Brings Outer Planets Mod into KSA",
+    "Description_Long": "tba",
+    "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "Core"
+        },
+        {
+            "type": 1, 
+            "mod": "KSP-Redux"
+        }
+    ],
+    "Download_Link": "https://spacedock.info/mod/4071/KSP-Redux%20-%20OPM%20Addon/download"
+    "Homepage": "https://spacedock.info/mod/4071/KSP-Redux%20-%20OPM%20Addon"
+}
