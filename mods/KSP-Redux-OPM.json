@@ -3,6 +3,7 @@
     "Description_Short": "Brings Outer Planets Mod into KSA",
     "Description_Long": "tba",
     "Version": "1.0.2",
+    "Supported_Version": "2026.1.3.3194",
     "Dependencies": [
         {
             "type": 1, 
@@ -13,6 +14,6 @@
             "mod": "KSP-Redux"
         }
     ],
-    "Download_Link": "https://spacedock.info/mod/4071/KSP-Redux%20-%20OPM%20Addon/download"
+    "Download_Link": "https://spacedock.info/mod/4071/KSP-Redux%20-%20OPM%20Addon/download",
     "Homepage": "https://spacedock.info/mod/4071/KSP-Redux%20-%20OPM%20Addon"
 }

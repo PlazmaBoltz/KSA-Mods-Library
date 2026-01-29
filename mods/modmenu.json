@@ -3,12 +3,14 @@
     "Description_Short": "Adds a menu for managing mods",
     "Description_Long": "tba",
     "Version": "0.1.2",
+    "Supported_Version": "2026.1.4.3299",
     "Dependencies": [
         {
             "type": 1, 
-            "mod": "StarmapAPI"
+            "mod": "StarmapAPI",
+            "Version": "0.3.6"
         }
     ],
-    "Download_Link": "https://spacedock.info/mod/4054/ModMenu/download"
+    "Download_Link": "https://spacedock.info/mod/4054/ModMenu/download",
     "Homepage": "https://spacedock.info/mod/4054/ModMenu"
 }

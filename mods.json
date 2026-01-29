@@ -1,6 +1,7 @@
 {
-    "KSP-Redux": "mods/KSP-Redux.json"
-    "Kitten-Engineer-Redux": "mods/KES.json"
-    "ModMenu": "mods/modmenu.json"
-    "KSP-Redux-OPM": "mods/KSP-Redux-OPM.json"
+    "KSP-Redux": "mods/KSP-Redux.json",
+    "Kitten-Engineer-Redux": "mods/KES.json",
+    "ModMenu": "mods/modmenu.json",
+    "KSP-Redux-OPM": "mods/KSP-Redux-OPM.json",
+    "Compendium": "mod/Compendium.json"
 }

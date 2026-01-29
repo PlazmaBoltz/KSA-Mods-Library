@@ -1,0 +1,27 @@
+{
+    "title": "Compendium",
+    "Description_Short": "Celestial body informational window, orbital line toggle management!",
+    "Description_Long": "tba",
+    "Version": "0.8",
+    "Supported_Version": " 2025.12.33.3123",
+    "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        },
+        {
+            "type": 1,
+            "mod": "ModMenu"
+        },
+        {
+            "type": 0, 
+            "mod": "KSP-Redux"
+        },
+        {
+            "type": 0, 
+            "mod": "KSP-Redux-OPM"
+        }
+    ],
+    "Download_Link": "https://spacedock.info/mod/4074/Compendium",
+    "Homepage": "https://spacedock.info/mod/4074/Compendium/download"
+}

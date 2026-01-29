@@ -3,6 +3,7 @@
     "Description_Short": "Brings KSP into KSA",
     "Description_Long": "tba",
     "Version": "1.3.1",
+    "Supported_Version": " 2026.1.3.3194",
     "Dependencies": [
         {
             "type": 1, 
@@ -17,6 +18,6 @@
             "mod": "KSP-Redux-OPM"
         }
     ],
-    "Download_Link": "https://spacedock.info/mod/4040/KSP-Redux/download"
+    "Download_Link": "https://spacedock.info/mod/4040/KSP-Redux/download",
     "Homepage": "https://spacedock.info/mod/4040/KSP-Redux"
 }
