@@ -1,0 +1,13 @@
+{
+    "title": "VehicleDestruction",
+    "author": "tom_is_unlucky",
+    "Description_Short": "A programmable autopilot computer for KSA using a fictional assembly language.",
+    "Description_Long": "tba",
+    "Version": "0.2.0",
+    "Supported_Version": "2025.12.33.3123",
+    "Dependencies": [
+    ],
+    "Download_Link": "https://github.com/tsholmes/KSASM/releases/latest",
+    "Homepage": "https://forums.ahwoo.com/threads/ksasm-v0-2-0-programmable-rockets.636/",
+    "Source_Code": "https://github.com/tsholmes/KSASM"
+}

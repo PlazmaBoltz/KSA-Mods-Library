@@ -1,11 +1,13 @@
 {
     "title": "Kitten-Ears",
-    "Description_Short": "https://spacedock.info/mod/4039/Kitten%20Ears!",
-    "Description_Long": "tba",
-    "Version": "tba",
+    "author": "dandoesstuff",
+    "Description_Short": "Kittens how they should've been smh",
+    "Description_Long": "The community yearns for cat ears. Note: This just takes the original helmet (made by RocketWerkz) and adds cat ears on to it.",
+    "Version": "1.1",
     "Supported_Version": "2025.11.6.2939",
     "Dependencies": [
     ],
     "Download_Link": "https://spacedock.info/mod/4039/Kitten%20Ears!/download",
-    "Homepage": "https://spacedock.info/mod/4039/Kitten%20Ears!"
+    "Homepage": "https://spacedock.info/mod/4039/Kitten%20Ears!",
+    "Source_Code": "False"
 }

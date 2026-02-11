@@ -1,0 +1,13 @@
+{
+    "title": "KittenExport",
+    "author": "GhentZ",
+    "Description_Short": "Hi, I'm working on a blender plugin that creates the required XML files for parts. You can add thrusters and engines and specify the required parameters in the Parameter editor.",
+    "Description_Long": "tba",
+    "Version": "tba",
+    "Supported_Version": "unknown",
+    "Dependencies": [
+    ],
+    "Download_Link": "https://forums.ahwoo.com/threads/blender-exporter.494/",
+    "Homepage": "https://forums.ahwoo.com/threads/blender-exporter.494/",
+    "Source_Code": "https://github.com/MarcusZuber/kittenExport"
+}
