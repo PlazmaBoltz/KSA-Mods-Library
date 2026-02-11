@@ -7,5 +7,7 @@
     "Dependencies": [
     ],
     "Download_Link": "https://spacedock.info/mod/4095/Contract%20Manager/download",
-    "Homepage": "https://spacedock.info/mod/4095/Contract%20Manager"
+    "Homepage": "https://spacedock.info/mod/4095/Contract%20Manager",
+    "author": "SaphireFalcon",
+    "Source_Code": "https://github.com/SaphireFalcon/ContractManager"
 }

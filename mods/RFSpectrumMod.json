@@ -11,5 +11,7 @@
         }
     ],
     "Download_Link": "https://spacedock.info/mod/4091/RF%20Spectrum%20Mod/download",
-    "Homepage": "https://spacedock.info/mod/4091/RF%20Spectrum%20Mod"
+    "Homepage": "https://spacedock.info/mod/4091/RF%20Spectrum%20Mod",
+    "author": "Meatsauce",
+    "Source_Code": "https://github.com/meatsauce007/IonocatRfMod"
 }

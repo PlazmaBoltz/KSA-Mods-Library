@@ -7,5 +7,7 @@
     "Dependencies": [
     ],
     "Download_Link": "https://spacedock.info/mod/4081/Kitten%20Proto-Link/download",
-    "Homepage": "https://spacedock.info/mod/4081/Kitten%20Proto-Link"
+    "Homepage": "https://spacedock.info/mod/4081/Kitten%20Proto-Link",
+    "author": "tgatomic",
+    "Source_Code": "https://github.com/tgatomic/kittenprotolink"
 }

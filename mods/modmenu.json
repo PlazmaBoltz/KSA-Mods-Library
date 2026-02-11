@@ -12,5 +12,7 @@
         }
     ],
     "Download_Link": "https://spacedock.info/mod/4054/ModMenu/download",
-    "Homepage": "https://spacedock.info/mod/4054/ModMenu"
+    "Homepage": "https://spacedock.info/mod/4054/ModMenu",
+    "author": "MrJeranimo",
+    "Source_Code": "https://github.com/MrJeranimo/ModMenu/tree/v0.1.0"
 }

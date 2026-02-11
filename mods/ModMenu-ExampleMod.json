@@ -7,5 +7,7 @@
     "Dependencies": [
     ],
     "Download_Link": "https://spacedock.info/mod/4055/ModMenu%20ExampleMod/download",
-    "Homepage": "https://spacedock.info/mod/4055/ModMenu%20ExampleMod"
+    "Homepage": "https://spacedock.info/mod/4055/ModMenu%20ExampleMod",
+    "author": "MrJeranimo",
+    "Source_Code": "https://github.com/MrJeranimo/ModMenu.ExampleMod/tree/v1.0.0"
 }

@@ -11,5 +11,7 @@
         }
     ],
     "Download_Link": "https://spacedock.info/mod/4050/KSA%20Discord%20Rich%20Presence/download",
-    "Homepage": "https://spacedock.info/mod/4050/KSA%20Discord%20Rich%20Presence"
+    "Homepage": "https://spacedock.info/mod/4050/KSA%20Discord%20Rich%20Presence",
+    "author": "ratInSuit",
+    "Source_Code": "https://github.com/paulo-santana/KSADiscordRichPresence"
 }

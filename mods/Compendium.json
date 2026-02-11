@@ -23,5 +23,7 @@
         }
     ],
     "Download_Link": "https://spacedock.info/mod/4074/Compendium",
-    "Homepage": "https://spacedock.info/mod/4074/Compendium/download"
+    "Homepage": "https://spacedock.info/mod/4074/Compendium/download",
+    "author": "nanonestor",
+    "Source_Code": "https://github.com/meow-sci/Compendium"
 }
