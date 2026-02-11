@@ -10,5 +10,19 @@
     "KSP-Redux": "mods/KSP-Redux.json",
     "ModMenu": "mods/modmenu.json",
     "RF-Spectrum": "mods/RFSpectrumMod.json",
-    "Spaceplanes": "mods/Spaceplanes.json"
+    "Spaceplanes": "mods/Spaceplanes.json",
+    "VehicleDestruction": "mods/VehicleDestruction.json",
+    "Contract-Manager": "mods/Contract-Manager.json",
+    "KSA-Misc-Parts": "mods/KSA-Misc-Parts.json",
+    "Kitten-Proto-Link": "mods/Kitten-Proto-Link.json",
+    "Probe-Parts-Plus": "mods/Probe-Parts-Plus.json",
+    "Gustav-Holsts-The-Planets-Orchestral-Suite-Soundtrack": "mods/Gustav-Holsts-The-Planets-Orchestral-Suite-Soundtrack.json",
+    "Custom-Catastronaut-Skins": "mods/Custom-Catastronaut-Skins.json",
+    "Alternate-Reality-Moonar-System": "mods/Alternate-Reality-Moonar-System.json",
+    "ModMenu-ExampleMod": "mods/ModMenu-ExampleMod.json",
+    "KittenRemoteControl": "mods/KittenRemoteControl.json",
+    "Celestial-Charter": "mods/Celestial-Charter.json",
+    "StellarAnalytics": "mods/StellarAnalytics.json",
+    "Kitten-Ears": "mods/Kitten-Ears.json",
+    "ONeil-Cylinder": "mods/ONeil-Cylinder.json"
 }
