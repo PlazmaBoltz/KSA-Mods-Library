@@ -1,8 +1,8 @@
 {
-    "AircraftHUD": "mod/AircraftHUD.json",
-    "Avionics": "mod/Avionics.json",
-    "Compendium": "mod/Compendium.json",
-    "JustMunley": "mod/JustMunley.json",
+    "AircraftHUD": "mods/AircraftHUD.json",
+    "Avionics": "mods/Avionics.json",
+    "Compendium": "mods/Compendium.json",
+    "JustMunley": "mods/JustMunley.json",
     "Kitten-Engineer-Redux": "mods/KES.json",
     "KSA-Discord-Presence": "mods/KSADiscordRichPresence.json",
     "KSA-Multiplayer": "mods/KSAMultiplayerMod.json",
