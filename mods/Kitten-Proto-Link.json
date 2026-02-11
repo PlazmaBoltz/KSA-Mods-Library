@@ -1,0 +1,11 @@
+{
+    "title": "Kitten-Proto-Link",
+    "Description_Short": "A lightweight mod for telemetry and controlling Kitten Space Agency. Built using a philosophy to reduce the traffic to the connected clients, “in order to reduce the amount of computation needed for the clients.“",
+    "Description_Long": "tba",
+    "Version": "tba",
+    "Supported_Version": "2025.12.31.3103",
+    "Dependencies": [
+    ],
+    "Download_Link": "https://spacedock.info/mod/4081/Kitten%20Proto-Link/download",
+    "Homepage": "https://spacedock.info/mod/4081/Kitten%20Proto-Link"
+}

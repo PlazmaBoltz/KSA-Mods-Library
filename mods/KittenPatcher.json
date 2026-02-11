@@ -1,0 +1,11 @@
+{
+    "title": "KittenPatcher",
+    "Description_Short": "Does nothing by itself however it will execute KittenPatcher patches from other mods.",
+    "Description_Long": "tba",
+    "Version": "0.0.2",
+    "Supported_Version": "2025.12.24.3014",
+    "Dependencies": [
+    ],
+    "Download_Link": "https://github.com/Chitak985/KittenPatcher/releases/latest",
+    "Homepage": "https://github.com/Chitak985/KittenPatcher"
+}

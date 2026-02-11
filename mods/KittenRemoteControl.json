@@ -1,0 +1,11 @@
+{
+    "title": "KittenRemoteControl",
+    "Description_Short": "Allows external access to the vehicle via a socket connection.",
+    "Description_Long": "tba",
+    "Version": "tba",
+    "Supported_Version": "2025.11.11.2924",
+    "Dependencies": [
+    ],
+    "Download_Link": "https://spacedock.info/mod/4049/KittenRemoteControl/download",
+    "Homepage": "https://spacedock.info/mod/4049/KittenRemoteControl"
+}
