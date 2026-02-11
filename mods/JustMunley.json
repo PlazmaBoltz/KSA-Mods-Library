@@ -1,0 +1,15 @@
+{
+    "title": "Just Munley",
+    "Description_Short": "It's all Munley",
+    "Description_Long": "oH MY GOODNESS IT'S ALL MUNLEY HLEP\n\nThis mod replaces every celestial body with Scott Munley. Install by dragging Content into the main KSA folder.",
+    "Version": "1.1",
+    "Supported_Version": " 2025.11.6.2939",
+    "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "Core"
+        }
+    ],
+    "Download_Link": "https://spacedock.info/mod/4036/Just%20Munley./download",
+    "Homepage": "https://spacedock.info/mod/4036/Just%20Munley."
+}

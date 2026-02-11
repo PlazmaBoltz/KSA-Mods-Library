@@ -1,0 +1,15 @@
+{
+    "title": "KSA Discord Rich Presence",
+    "Description_Short": "Add discord rich presence when you boot up the game, so it shows you're playing KSA.",
+    "Description_Long": "It's a simple mod that currently just shows in discord that you have KSA open.\n\nPlanned features: - showing what's the current craft status - add images for different bodies or activities\nThis probably won't be needed once the devs implement rich presence themselves.",
+    "Version": "0.1.0",
+    "Supported_Version": " 2026.1.3.3194",
+    "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        }
+    ],
+    "Download_Link": "https://spacedock.info/mod/4050/KSA%20Discord%20Rich%20Presence/download",
+    "Homepage": "https://spacedock.info/mod/4050/KSA%20Discord%20Rich%20Presence"
+}

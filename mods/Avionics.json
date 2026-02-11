@@ -1,0 +1,19 @@
+{
+    "title": "Avionics",
+    "Description_Short": "Adds flight instruments and aircraft autopilot",
+    "Description_Long": "tba",
+    "Version": "1.7.0",
+    "Supported_Version": " 2025.12.25.3047",
+    "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        },
+        {
+            "type": 1, 
+            "mod": "ModMenu"
+        }
+    ],
+    "Download_Link": "https://spacedock.info/mod/4057/Avionics",
+    "Homepage": "https://spacedock.info/mod/4057/Avionics"
+}

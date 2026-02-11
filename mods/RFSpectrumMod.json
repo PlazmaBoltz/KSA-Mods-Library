@@ -1,0 +1,15 @@
+{
+    "title": "RF Spectrum Mod",
+    "Description_Short": "Adds a functional approximation of the RF Spectrum and utilities to Kitten Space Agency",
+    "Description_Long": "tba",
+    "Version": "0.1.1",
+    "Supported_Version": " 2026.1.7.3270",
+    "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        }
+    ],
+    "Download_Link": "https://spacedock.info/mod/4091/RF%20Spectrum%20Mod/download",
+    "Homepage": "https://spacedock.info/mod/4091/RF%20Spectrum%20Mod"
+}

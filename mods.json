@@ -1,7 +1,14 @@
 {
-    "KSP-Redux": "mods/KSP-Redux.json",
+    "AircraftHUD": "mod/AircraftHUD.json",
+    "Avionics": "mod/Avionics.json",
+    "Compendium": "mod/Compendium.json",
+    "JustMunley": "mod/JustMunley.json",
     "Kitten-Engineer-Redux": "mods/KES.json",
-    "ModMenu": "mods/modmenu.json",
+    "KSA-Discord-Presence": "mods/KSADiscordRichPresence.json",
+    "KSA-Multiplayer": "mods/KSAMultiplayerMod.json",
     "KSP-Redux-OPM": "mods/KSP-Redux-OPM.json",
-    "Compendium": "mod/Compendium.json"
+    "KSP-Redux": "mods/KSP-Redux.json",
+    "ModMenu": "mods/modmenu.json",
+    "RF-Spectrum": "mods/RFSpectrumMod.json",
+    "Spaceplanes": "mods/Spaceplanes.json"
 }

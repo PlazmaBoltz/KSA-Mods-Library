@@ -1,0 +1,15 @@
+{
+    "title": "Aircraft HUD",
+    "Description_Short": "Adds an aircraft style HUD to KSA",
+    "Description_Long": "tba",
+    "Version": "0.1.9",
+    "Supported_Version": " 2026.2.5.3428",
+    "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        }
+    ],
+    "Download_Link": "https://spacedock.info/mod/4065/Aircraft%20HUD/download",
+    "Homepage": "https://forums.ahwoo.com/threads/aircraft-hud.618/"
+}
