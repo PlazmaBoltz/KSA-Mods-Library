@@ -1,0 +1,13 @@
+{
+    "title": "SystemReloader",
+    "author": "TheRooster",
+    "Description_Short": "This mod adds a window to reload the current system",
+    "Description_Long": "tba",
+    "Version": "0.1.0",
+    "Supported_Version": "unknown",
+    "Dependencies": [
+    ],
+    "Download_Link": "https://github.com/r11b22/KsaSystemReloader/releases/latest",
+    "Homepage": "https://forums.ahwoo.com/threads/system-reloader-v0-0-1.551/",
+    "Source_Code": "https://github.com/r11b22/KsaSystemReloader"
+}

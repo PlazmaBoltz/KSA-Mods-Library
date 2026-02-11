@@ -1,0 +1,12 @@
+{
+    "title": "TempDebug",
+    "Description_Short": "This mod is just a practice mod for learning how to code with KSA and StarMap.",
+    "Description_Long": "This mod is just a practice mod for learning how to code with KSA and StarMap. It acts a simple debug panel showing info like Current Vehicle Controlled, and a list of all Celestials in the Universe, aka Planets, Stars, Moons, and Vehicles.",
+    "Version": "0.1.0",
+    "Supported_Version": "unknown",
+    "Dependencies": [
+    ],
+    "Download_Link": "https://github.com/MrJeranimo/KSA_TempDebug/releases/latest",
+    "Homepage": "https://forums.ahwoo.com/threads/tempdebug-v0-1-0-a-ksa-debug-mod.472/#post-2169",
+    "Source_Code": "https://github.com/MrJeranimo/KSA_TempDebug"
+}
