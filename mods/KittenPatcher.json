@@ -5,6 +5,10 @@
     "Version": "0.0.2",
     "Supported_Version": "2025.12.24.3014",
     "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        }
     ],
     "Download_Link": "https://github.com/Chitak985/KittenPatcher/releases/download/v0.0.2RealBeta/KittenPatcher0_0_2.zip",
     "Homepage": "https://github.com/Chitak985/KittenPatcher",

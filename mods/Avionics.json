@@ -1,7 +1,7 @@
 {
     "title": "Avionics",
     "Description_Short": "Adds flight instruments and aircraft autopilot",
-    "Description_Long": "tba",
+    "Description_Long": "Avionics is a mod for Kitten Space Agency that adds airplane flight instruments. The current features are: All the basic flight instruments of a steam gauge cockpit, an FMS that stores the positions of thousands of airports across the world, and an autopilot with altitude hold, heading hold, and airport navigation. This mod does not add airport models, runways, or airplanes to KSA; it only adds the navigation tools to get to where the airports would be.",
     "Version": "1.7.0",
     "Supported_Version": " 2025.12.25.3047",
     "Dependencies": [

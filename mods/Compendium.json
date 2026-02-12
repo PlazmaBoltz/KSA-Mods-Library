@@ -1,7 +1,7 @@
 {
     "title": "Compendium",
     "Description_Short": "Celestial body informational window, orbital line toggle management!",
-    "Description_Long": "tba",
+    "Description_Long": "Compendium adds a window (which may be toggled on/off via ModMenu) which provides a helpful companion to exploring the currently loaded solar system! Solar system bodies (celestials) are listed in categories and tiered based on parent bodies and their satellites (moons/moonlets) Orbit lines have toggle buttons for individual bodies, groups of bodies, and entire categories. Fun and useful information is displayed regarding each body's stats",
     "Version": "0.8",
     "Supported_Version": " 2025.12.33.3123",
     "Dependencies": [
@@ -22,8 +22,8 @@
             "mod": "KSP-Redux-OPM"
         }
     ],
-    "Download_Link": "https://spacedock.info/mod/4074/Compendium",
-    "Homepage": "https://spacedock.info/mod/4074/Compendium/download",
+    "Download_Link": "https://spacedock.info/mod/4074/Compendium/download",
+    "Homepage": "https://spacedock.info/mod/4074/Compendium",
     "author": "nanonestor",
     "Source_Code": "https://github.com/meow-sci/Compendium"
 }

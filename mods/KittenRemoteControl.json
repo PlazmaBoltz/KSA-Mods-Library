@@ -1,10 +1,14 @@
 {
     "title": "KittenRemoteControl",
     "Description_Short": "Allows external access to the vehicle via a socket connection.",
-    "Description_Long": "tba",
-    "Version": "tba",
+    "Description_Long": "This mod allows you to get access to telemetry and vessel control via a socket connection. This is interesting, if you want to build your own 'cockpit hardware' or for external scripting. I'm working on a python wrapper in parrelel which is linked on the github page. On the github page you can also suggest features or report bugs.",
+    "Version": "0.0.3b",
     "Supported_Version": "2025.11.11.2924",
     "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        }
     ],
     "Download_Link": "https://spacedock.info/mod/4049/KittenRemoteControl/download",
     "Homepage": "https://spacedock.info/mod/4049/KittenRemoteControl",

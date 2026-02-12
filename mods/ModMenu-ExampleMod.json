@@ -1,10 +1,18 @@
 {
     "title": "ModMenu-ExampleMod",
     "Description_Short": "This is an example mod for the mod ModMenu",
-    "Description_Long": "tba",
-    "Version": "tba",
+    "Description_Long": "This is an example mod for ModMenu. It just serves to show how ModMenu works and to see the code behind it.",
+    "Version": "1.0.1",
     "Supported_Version": "2025.12.5.2976",
     "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        },
+        {
+            "type": 1,
+            "mod": "ModMenu"
+        }
     ],
     "Download_Link": "https://spacedock.info/mod/4055/ModMenu%20ExampleMod/download",
     "Homepage": "https://spacedock.info/mod/4055/ModMenu%20ExampleMod",

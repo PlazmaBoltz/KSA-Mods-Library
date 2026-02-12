@@ -2,9 +2,17 @@
     "title": "VehicleDestruction",
     "Description_Short": "This mod adds basic vehicle destruction to KSA",
     "Description_Long": "This Mod adds destruction to vehicles in Kitten Space Agency. Currently, if you crash into an Astronomical (Planet, moon, asteroid) while going greater than 14m/s your vehicle will be destroyed. Please note this is still very janky due to colliders being a bit weird in KSA.",
-    "Version": "0.1.0",
+    "Version": "0.1.5",
     "Supported_Version": "2026.2.3.3419",
     "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        },
+        {
+            "type": 1,
+            "mod": "ModMenu"
+        }
     ],
     "Download_Link": "https://spacedock.info/mod/4114/VehicleDestruction/download",
     "Homepage": "https://spacedock.info/mod/4114/VehicleDestruction",

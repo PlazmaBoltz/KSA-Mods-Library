@@ -1,13 +1,17 @@
 {
     "title": "Kitten Engineer Redux",
-    "Description_Short": "Tools",
-    "Description_Long": "tba",
+    "Description_Short": "[VERY EARLY ALPHA] Kitten Engineer Redux is a tools and utility mod for Kitten Space Agency that displays helpful information, as well as a suicide burn calculator, and a small automatic flight computer.",
+    "Description_Long": "[VERY EARLY ALPHA] Kitten Engineer Redux is a tools and utility mod for Kitten Space Agency that displays helpful information, as well as a suicide burn calculator, and a small automatic flight computer. Expect some things to not work properly just yet. ModMenu is the only dependency.",
     "Version": "1.4.2",
     "Supported_Version": "2025.12.10.3057",
     "Dependencies": [
         {
             "type": 1, 
             "mod": "StarmapAPI"
+        },
+        {
+            "type": 1,
+            "mod": "ModMenu"
         }
     ],
     "Download_Link": "https://spacedock.info/mod/4043/Kitten%20Engineer%20Redux/download",

@@ -1,8 +1,8 @@
 {
     "title": "KSA-Misc-Parts",
     "Description_Short": "A KSA mod that adds various miscellaneous parts",
-    "Description_Long": "tba",
-    "Version": "tba",
+    "Description_Long": "Adds multiple structural beams made out of monopropellant tanks and a launch escape system! Currently parts are only available in the debug editor.",
+    "Version": "1",
     "Supported_Version": "2025.12.24.3014",
     "Dependencies": [
     ],

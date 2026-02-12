@@ -2,9 +2,13 @@
     "title": "StellarAnalytics",
     "Description_Short": "StellarAnalytics is a simple analytics mod for Kitten Space Agency that records how long the player has spent in the game across multiple sessions. It displays both the current session time and the total accumulated time directly in-game.",
     "Description_Long": "tba",
-    "Version": "tba",
+    "Version": "0.0.1",
     "Supported_Version": "2025.11.8.2847",
     "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        }
     ],
     "Download_Link": "https://spacedock.info/mod/4041/StellarAnalytics/download",
     "Homepage": "https://spacedock.info/mod/4041/StellarAnalytics",

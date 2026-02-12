@@ -1,0 +1,17 @@
+{
+    "title": "KittenExtensions",
+    "Description_Short": "XML Patching (ModuleManager), Custom XML Asset and Shader Extensions",
+    "Description_Long": "tba",
+    "Version": "0.3.1",
+    "Supported_Version": "2026.2.7.3473",
+    "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        }
+    ],
+    "Download_Link": "https://github.com/tsholmes/KittenExtensions/releases/download/v0.3.1/KittenExtensions-0.3.1.zip",
+    "Homepage": "https://spacedock.info/mod/4144/KittenExtensions",
+    "author": "tom_is_unlucky",
+    "Source_Code": "https://github.com/tsholmes/KittenExtensions"
+}

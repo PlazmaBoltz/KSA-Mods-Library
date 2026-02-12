@@ -1,13 +1,13 @@
 {
     "title": "KittenExport",
     "author": "GhentZ",
-    "Description_Short": "Hi, I'm working on a blender plugin that creates the required XML files for parts. You can add thrusters and engines and specify the required parameters in the Parameter editor.",
-    "Description_Long": "tba",
-    "Version": "tba",
+    "Description_Short": "Blender exporter for KSA models (engines and thrusters metadata)",
+    "Description_Long": "A Blender addon for exporting spacecraft models to Kitten Space Agency (KSA) format with support for thrusters, engines, meshes, and materials.",
+    "Version": "0.0.5",
     "Supported_Version": "unknown",
     "Dependencies": [
     ],
-    "Download_Link": "https://forums.ahwoo.com/threads/blender-exporter.494/",
+    "Download_Link": "https://github.com/MarcusZuber/kittenExport/releases/download/v0.0.5/kittenExport-0.0.5.zip",
     "Homepage": "https://forums.ahwoo.com/threads/blender-exporter.494/",
     "Source_Code": "https://github.com/MarcusZuber/kittenExport"
 }
