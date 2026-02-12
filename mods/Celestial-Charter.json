@@ -1,10 +1,18 @@
 {
     "title": "Celestial-Charter",
     "Description_Short": "This mod tracks each Vehicle's status and situation for each of the Celestials and displays in in a neat GUI.",
-    "Description_Long": "tba",
-    "Version": "tba",
+    "Description_Long": "This Mod is intended to be a KSA mod dependency that conviently exposes and stores Celestial Data from KSA. This is useful as it will allow modders to add more gameplay to KSA through mods as they will be able to access data such as, if a Vehicle is Landed on a specific planet, which Celestials has a specific Vehicle been to, if a Vehicle flew by another Celestial or orbited it, and so on. More information will be added as the developement progresses.",
+    "Version": "0.3.6-beta",
     "Supported_Version": "2026.1.7.3270",
     "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        },
+        {
+            "type": 1, 
+            "mod": "ModMenu"
+        }
     ],
     "Download_Link": "https://spacedock.info/mod/4046/Celestial%20Charter/download",
     "Homepage": "https://spacedock.info/mod/4046/Celestial%20Charter",
