@@ -1,10 +1,14 @@
 {
     "title": "Contract-Manager",
     "Description_Short": "Contracts to enhance your KSA game-play",
-    "Description_Long": "tba",
-    "Version": "tba",
+    "Description_Long": "This mod has as a goal to provide an easy way to create, manage and complete contracts in KSA. It allows players to take on various contracts, complete objectives, and earn rewards. For modders, it provides a flexible API to create custom contracts and objectives.",
+    "Version": "0.3.0",
     "Supported_Version": "2026.2.2.3396",
     "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        }
     ],
     "Download_Link": "https://spacedock.info/mod/4095/Contract%20Manager/download",
     "Homepage": "https://spacedock.info/mod/4095/Contract%20Manager",
