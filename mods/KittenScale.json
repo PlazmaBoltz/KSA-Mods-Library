@@ -1,0 +1,13 @@
+{
+    "title": "KittenScale",
+    "Description_Short": "Smaller Kitten heads and helmets",
+    "Description_Long": "Features:\n- Provides modified kitten models with reduced head size of 75%\n- Provides modified helmet models with reduced size of 75%\n- Alternative helmet design, recessed top middle to make it more compact.",
+    "Version": "0.2",
+    "Supported_Version": "2026.2.9.3529",
+    "Dependencies": [
+    ],
+    "Download_Link": "https://github.com/AndyMt/KSA_KittenScale/releases/download/V0.2/KittenScale02.zip",
+    "Homepage": "https://forums.ahwoo.com/threads/kittenscale-v0-2-smaller-kitten-heads-and-helmets.705/",
+    "author": "AndyMt",
+    "Source_Code": "https://github.com/AndyMt/KSA_KittenScale"
+}

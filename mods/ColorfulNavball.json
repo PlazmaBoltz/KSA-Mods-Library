@@ -1,0 +1,17 @@
+{
+    "title": "Colorful Navball",
+    "Description_Short": "blue sky and pale brown",
+    "Description_Long": "This mod replaces the Apollo-style cream and black navball with an aviation-style pale blue sky and pale brown ground color scheme.",
+    "Version": "1.0",
+    "Supported_Version": "2026.2.9.3529",
+    "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        }
+    ],
+    "Download_Link": "https://github.com/ap0r/ksa-colorful-navball/archive/refs/tags/v1.0.zip",
+    "Homepage": "https://forums.ahwoo.com/threads/colorful-navball-sky-is-pale-blue-ground-is-pale-brown-v1-0.313/#post-3686",
+    "author": "ap0r",
+    "Source_Code": "https://github.com/ap0r/ksa-colorful-navball"
+}
