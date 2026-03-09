@@ -1,0 +1,17 @@
+{
+    "title": "MPFX",
+    "Description_Short": "Simple post processing",
+    "Description_Long": "A very simple post processing mod",
+    "Version": "0.1.2",
+    "Supported_Version": "2026.3.3.3759",
+    "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        }
+    ],
+    "Download_Link": "https://spacedock.info/mod/4165/MPFX/download",
+    "Homepage": "https://forums.ahwoo.com/threads/mpfx-v0-1-0-simple-post-processing-effects.812/",
+    "author": "AMPW",
+    "Source_Code": "https://github.com/AMPW-german/MPFX"
+}

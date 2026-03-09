@@ -1,0 +1,17 @@
+{
+    "title": "KSA XR",
+    "Description_Short": "OpenXR support for Kitten Space Agnecy",
+    "Description_Long": "KSA_XR is my humble attempt at enabling some amount of VR functionality inside Kitten Space Agency",
+    "Version": "0.1",
+    "Supported_Version": "2026.2.37.3699",
+    "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        }
+    ],
+    "Download_Link": "https://spacedock.info/mod/4161/KSA_XR/download",
+    "Homepage": "https://spacedock.info/mod/4161/KSA_XR",
+    "author": "Ybalrid",
+    "Source_Code": "https://github.com/Ybalrid/KSA_XR"
+}

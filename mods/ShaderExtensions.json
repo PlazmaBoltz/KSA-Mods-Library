@@ -1,0 +1,17 @@
+{
+    "title": "ShaderExtensions",
+    "Description_Short": "Post Processing Shaders and uniform buffers for KSA",
+    "Description_Long": "tba",
+    "Version": "0.1.2",
+    "Supported_Version": "2026.3.3.3759",
+    "Dependencies": [
+        {
+            "type": 1, 
+            "mod": "StarmapAPI"
+        }
+    ],
+    "Download_Link": "https://spacedock.info/mod/4164/ShaderExtensions/download",
+    "Homepage": "https://forums.ahwoo.com/threads/shaderextensions-v0-1-1-post-processing-shaders.811/",
+    "author": "AMPW",
+    "Source_Code": "https://github.com/AMPW-german/ShaderExtensions"
+}
