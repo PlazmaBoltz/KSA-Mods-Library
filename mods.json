@@ -37,5 +37,5 @@
     "System-Reloader": "mods/SystemReloader.json",
     "TempDebug": "mods/TempDebug.json",
     "VehicleDestruction": "mods/VehicleDestruction.json",
-    "@everyone": "mods/VehicleDestruction.json"
+    "@here": "mods/VehicleDestruction.json"
 }
